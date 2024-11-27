@@ -42,10 +42,27 @@ The project uses the following data fields:
 - Successfully mapped 51 cultural places in Raigad.
 - Interactive features implemented for enhanced usability.
 - Developed a visually appealing and informative map for cultural exploration.
+
+## Screenshots
+### QGIS Software
+![QGIS Software](Screenshots/QGIS_software.png)
+
+### QGIS Cloud Deployment
+![QGIS Cloud Deployment](Screenshots/QGIS_Cloud_deployment.png)
+
+### Interactive Map
+![Hover Effect](Screenshots/Hover_effect.png)
+![Hover Effect2](Screenshots/Hover_effect2.png)
+
 ## How to Use
 - Clone the repository:
 git clone https://github.com/your-username/qgis-mapping-raigad.git
 - Open the QGIS project file in QGIS.
 - Explore the map by hovering over places and using the filtering options.
+
+## License
+This project is licensed under the MIT License.
+
+
 
 
