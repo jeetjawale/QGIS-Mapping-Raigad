@@ -32,6 +32,7 @@ The project uses the following data fields:
 - QGIS Cloud: For deploying map.
 - Excel: For organizing and cleaning data.
 - Google Maps: For generating direction links.
+- Web Technologies: React, Leaflet, xlsx, CSS.
 
 ## Challenges and Solutions
 - Challenge: Aligning data with exact coordinates.
