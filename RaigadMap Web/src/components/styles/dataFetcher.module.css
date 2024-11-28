@@ -1,0 +1,20 @@
+.dataFetcher {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+  
+.loading {
+    font-size: 18px;
+    color: #555;
+    margin-top: 20px;
+}
+
+.topicName {
+    font-size: 1.3rem;
+    margin: o.2rem;
+    text-decoration: underline;
+}
+
+.topicName:hover {
+    font-size: 1.31rem;
+}
