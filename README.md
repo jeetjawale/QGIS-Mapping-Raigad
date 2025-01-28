@@ -57,7 +57,7 @@ The project uses the following data fields:
 
 ## How to Use
 - Clone the repository:
-git clone https://github.com/your-username/qgis-mapping-raigad.git
+git clone https://github.com/jeetjawale/qgis-mapping-raigad.git
 - Open the QGIS project file in QGIS.
 - Explore the map by hovering over places and using the filtering options.
 
